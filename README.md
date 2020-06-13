@@ -9,3 +9,5 @@ This Tool Can Genrate Keywords From This type of Text
 
 This Tool Can Filter And Remove Dublicates From Source
 You Can Save all and import from File
+
+- Release : https://github.com/atulkunal999/HFD-Tool-KeyWords-From-Any-type-of-text-or-links/releases/download/1.0/HFD.TOOL.exe

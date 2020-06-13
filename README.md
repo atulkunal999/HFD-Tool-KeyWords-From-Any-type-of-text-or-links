@@ -1,4 +1,4 @@
-# HFD-Tool-KeyWords-From-Any-type-of-text-or-links
+# HFD Tool KeyWords From Any type of text or links
 This is a keyword generator tool for Windows Made With Love By Atul Suthar.
 
 This Tool Can Genrate Keywords From This type of Text
